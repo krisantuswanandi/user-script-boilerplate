@@ -1,0 +1,14 @@
+{
+  "name": "User Script's name",
+  "namespace": "https://santus.dev/",
+  "version": "0.0.1",
+  "description": "User Script's description",
+  "author": "Krisantus Wanandi (https://github.com/krisantuswanandi)",
+  "match": [
+    "*://*.google.com/*"
+  ],
+  "icon": "https://www.google.com/s2/favicons?sz=64&domain=google.com",
+  "run-at": "document-body",
+  "license": "MIT",
+  "supportURL": "https://github.com/krisantuswanandi/user-script-boilerplate"
+}
