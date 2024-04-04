@@ -1,5 +1,6 @@
 {
   "name": "user-script-boilerplate",
+  "version": "0.0.1",
   "module": "dist/script.js",
   "type": "module",
   "scripts": {
@@ -7,6 +8,7 @@
     "dev": "bun scripts/dev.ts"
   },
   "devDependencies": {
+    "bumpp": "^9.4.0",
     "bun-types": "latest"
   },
   "peerDependencies": {

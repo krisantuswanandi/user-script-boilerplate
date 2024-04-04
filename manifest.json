@@ -1,7 +1,6 @@
 {
   "name": "User Script's name",
   "namespace": "https://santus.dev/",
-  "version": "0.0.1",
   "description": "User Script's description",
   "author": "Krisantus Wanandi (https://github.com/krisantuswanandi)",
   "match": [
